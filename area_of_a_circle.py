@@ -11,4 +11,4 @@ radius2 = 40
 area2 = compute_area_of_circle(radius2)
 print(f"The area of circle with radius {radius2} is: {area2}")
 
-print("DONE")
+print("Successful")
